@@ -1,0 +1,3 @@
+1)Goto the APIIinvesrecTest.java file inside the package name as src/test/java/com/test
+2)Right click on APIIinvesrecTest.java file AND Click on Run As ->TestNG Test
+2)Included required REST Assured libraries in pom.xml 
